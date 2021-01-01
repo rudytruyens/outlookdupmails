@@ -1,0 +1,14 @@
+C:\Users\Rudy\source\repos\OutlookDupMails\OutlookDupMails\bin\Release\dupmails.mdb
+C:\Users\Rudy\source\repos\OutlookDupMails\OutlookDupMails\bin\Release\OutlookDupMails.exe.config
+C:\Users\Rudy\source\repos\OutlookDupMails\OutlookDupMails\bin\Release\OutlookDupMails.exe
+C:\Users\Rudy\source\repos\OutlookDupMails\OutlookDupMails\bin\Release\OutlookDupMails.pdb
+C:\Users\Rudy\source\repos\OutlookDupMails\OutlookDupMails\bin\Release\OutlookDupMails.xml
+C:\Users\Rudy\source\repos\OutlookDupMails\OutlookDupMails\obj\Release\OutlookDupMails.vbproj.ResolveComReference.cache
+C:\Users\Rudy\source\repos\OutlookDupMails\OutlookDupMails\obj\Release\OutlookDupMails.Form1.resources
+C:\Users\Rudy\source\repos\OutlookDupMails\OutlookDupMails\obj\Release\OutlookDupMails.Resources.resources
+C:\Users\Rudy\source\repos\OutlookDupMails\OutlookDupMails\obj\Release\OutlookDupMails.vbproj.GenerateResource.cache
+C:\Users\Rudy\source\repos\OutlookDupMails\OutlookDupMails\obj\Release\OutlookDupMails.vbproj.CoreCompileInputs.cache
+C:\Users\Rudy\source\repos\OutlookDupMails\OutlookDupMails\obj\Release\OutlookDupMails.exe
+C:\Users\Rudy\source\repos\OutlookDupMails\OutlookDupMails\obj\Release\OutlookDupMails.xml
+C:\Users\Rudy\source\repos\OutlookDupMails\OutlookDupMails\obj\Release\OutlookDupMails.pdb
+C:\Users\Rudy\source\repos\OutlookDupMails\OutlookDupMails\obj\Release\OutlookDupMails.vbprojAssemblyReference.cache
